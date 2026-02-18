@@ -3,7 +3,7 @@ from __future__ import annotations
 from typing import Dict
 
 from .Pizza import Pizza
-from .exceptions import CartePizzeriaException
+from .CartePizzeriaException import CartePizzeriaException
 
 
 class CartePizzeria:
